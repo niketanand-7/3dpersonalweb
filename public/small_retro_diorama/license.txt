@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small Retro Diorama
+* source:	https://sketchfab.com/3d-models/small-retro-diorama-5d062e735fd04888beb42e33825a85fa
+* author:	NickJArt (https://sketchfab.com/NickJArt)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small Retro Diorama" (https://sketchfab.com/3d-models/small-retro-diorama-5d062e735fd04888beb42e33825a85fa) by NickJArt (https://sketchfab.com/NickJArt) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
